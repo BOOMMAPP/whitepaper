@@ -1,11 +1,12 @@
-# Welcome
+---
+description: ape tokens with ease on bsc and eth
+---
+
+# Welcome to BOOMM!!
 
 ### Introductions
 
-BOOMM is not just a sniper bot or trading bot, \
-we have built a full integrated system including buybot, walletbot, safecheck and trading bot all direct within telegram. \
-\
-Eliminating the need to use exchanges such as, Dextools, Poocoin, Uniswap and Pancakeswap, we provide all this to you directly in your community group.
+BOOMM Project is a fully integrated system for you to ape with ease forget about Poocoin/Dextool or Uniswap we provide all directly in your telegram group
 
 
 
@@ -31,3 +32,20 @@ Eliminating the need to use exchanges such as, Dextools, Poocoin, Uniswap and Pa
 {% endtab %}
 {% endtabs %}
 
+
+
+### BOOMM Audits
+
+{% tabs %}
+{% tab title="GoPlus Security" %}
+[https://gopluslabs.io/token-security/56/0x2c6a4566003a9fdd1ad2ef0baffdc82665f23911](https://gopluslabs.io/token-security/56/0x2c6a4566003a9fdd1ad2ef0baffdc82665f23911)
+{% endtab %}
+
+{% tab title="HoneyPot.is" %}
+[https://honeypot.is/?address=0x2c6a4566003a9fdd1ad2ef0baffdc82665f23911](https://honeypot.is/?address=0x2c6a4566003a9fdd1ad2ef0baffdc82665f23911)
+{% endtab %}
+
+{% tab title="TokenSnifer" %}
+[https://tokensniffer.com/token/bsc/fnbk539s1efek5mmkxx409hz22692nadfzixj9o4zzf2b335vnfkk1zn0h66](https://tokensniffer.com/token/bsc/fnbk539s1efek5mmkxx409hz22692nadfzixj9o4zzf2b335vnfkk1zn0h66)
+{% endtab %}
+{% endtabs %}

@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome to BOOMM!!](README.md)
+* [Introduction](introduction.md)
