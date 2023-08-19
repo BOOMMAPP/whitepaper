@@ -5,5 +5,8 @@
   * [BOOMM Mission](introduction/boomm-mission.md)
   * [Roadmap](introduction/roadmap.md)
   * [Tokenomics](introduction/tokenomics.md)
+* [BOOMM Guard](boomm-guard.md)
+* [BOOMM Wallet](boomm-wallet.md)
+* [BOOMM Buybot](boomm-buybot.md)
 * [BOOMM Tech](boomm-tech.md)
 * [The Team](the-team.md)
