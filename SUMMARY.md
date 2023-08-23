@@ -10,3 +10,4 @@
 * [BOOMM Buybot](boomm-buybot.md)
 * [BOOMM Tech](boomm-tech.md)
 * [BOOMM Squad](boomm-squad.md)
+* [BOOMM Stake](boomm-stake.md)
