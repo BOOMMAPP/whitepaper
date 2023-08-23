@@ -10,7 +10,7 @@ All the BOOMM utilities are interconnected and work together to provide the best
 
 ### **Our Business Model**
 
-We have a real business model behind BOOMM project
+We have a real business model behind BOOMM project.
 
 That is including promotion of our buybot to the community and generate income from every trade, premium services, trending, and advertisement.
 

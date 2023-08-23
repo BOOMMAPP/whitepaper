@@ -1,4 +1,4 @@
-# The Team
+# BOOMM Squad
 
 The team is made up of 8 persons including \
 &#x20;\- Developper \
@@ -20,6 +20,6 @@ The team will never dm you to ask for funds likewise will never dm first.&#x20;
 
 ### Final words
 
-The team is a set of hardworking young and eager to push to the extreme to see the project reach heights that seemed impossible
+The team is a set of hardworking young and eager to push to the extreme to see the project reach heights that seemed impossible.
 
-Follow us and be part of this amazing project with us&#x20;
+Follow us and be part of this amazing project with us .
