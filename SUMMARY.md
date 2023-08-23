@@ -9,4 +9,4 @@
 * [BOOMM Wallet](boomm-wallet.md)
 * [BOOMM Buybot](boomm-buybot.md)
 * [BOOMM Tech](boomm-tech.md)
-* [BOOMM Team](boomm-team.md)
+* [BOOMM Squad](boomm-squad.md)
