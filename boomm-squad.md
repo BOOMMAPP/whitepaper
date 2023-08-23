@@ -22,4 +22,4 @@ The team will never dm you to ask for funds likewise will never dm first.&#x20;
 
 The team is a set of hardworking young and eager to push to the extreme to see the project reach heights that seemed impossible.
 
-Follow us and be part of this amazing project with us .
+Follow us and be part of this amazing project with us.
