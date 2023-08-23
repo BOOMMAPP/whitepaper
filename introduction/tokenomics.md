@@ -4,8 +4,6 @@ description: Summary of our Tokenomics
 
 # Tokenomics
 
-
-
 ### **Token Name**:&#x20;
 
 BOOMM Token
@@ -22,7 +20,8 @@ BOOMM!!
 
 35%&#x20;
 
-burn transaction can be found here&#x20;
+burn transaction can be found here \
+[https://bscscan.com/token/0x2c6a4566003a9fdd1ad2ef0baffdc82665f23911?a=0x000000000000000000000000000000000000dead](https://bscscan.com/token/0x2c6a4566003a9fdd1ad2ef0baffdc82665f23911?a=0x000000000000000000000000000000000000dead)
 
 ### **Team allocation:**
 
