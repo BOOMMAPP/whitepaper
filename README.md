@@ -8,6 +8,8 @@ description: ape tokens with ease on bsc and eth
 
 BOOMM Project is a fully integrated system for you to ape with ease forget about Poocoin/Dextool or Uniswap we provide all directly in your telegram group
 
+Eliminating the need to use exchanges such as, Dextools, Poocoin, Uniswap and Pancakeswap, we provide all this to you directly in your community group.
+
 
 
 ### Usefull Links
