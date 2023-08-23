@@ -9,6 +9,6 @@
 * [BOOMM Stake](boomm-stake.md)
 * [BOOMM Wallet](boomm-wallet.md)
 * [BOOMM Buybot](boomm-buybot.md)
-* [System Security](system-security.md)
+* [BOOMM Security](boomm-security.md)
 * [BOOMM Tech](boomm-tech.md)
 * [BOOMM Squad](boomm-squad.md)

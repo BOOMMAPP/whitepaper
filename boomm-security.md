@@ -1,4 +1,4 @@
-# System Security
+# BOOMM Security
 
 We take the user's security very seriously we have in place a various security level on our server and projects to assure the security of your wallets.
 
